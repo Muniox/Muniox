@@ -1,7 +1,7 @@
 # Polish
 
 ### Czesć, mam na imię Paweł.
-Lubuje się w kawie z ekspresu automatycznego, grach strategicznych (np. Total War: Warhammer) oraz uważam się za skarbnicę wiedzy niepotrzebnej :smirk: 
+Lubuje się w kawie, grach strategicznych (np. Total War: Warhammer) oraz uważam się za skarbnicę wiedzy niepotrzebnej :smirk: 
 
 Od jakiegoś czasu rozpocząłem swoją drogę do zostania junior Frontend Developerem.
 
