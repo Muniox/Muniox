@@ -38,6 +38,8 @@ For now, I put a lot of emphasis on learning HTML and CSS, later my choice will 
 Books I have read
 - [x] ...fill
 
+Currently I have accepted a challenge from the website [frontendmentor](https://www.frontendmentor.io/home) (free challenges only):
+
 - [ ] newbie level 5/12
 
   - [NFT preview card component](https://github.com/Muniox/nft_preview_card_component)
