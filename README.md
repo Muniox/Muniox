@@ -9,7 +9,8 @@ Na razie stawiam duży nacisk na naukę HTML i CSS, w późniejszym czasie mój 
 
 Przeczytane przeze mnie książki
 
-- [x] ...uzupełnić
+- [x] HTML i CSS Zaprojektuj i zbuduj witrynę WWW PodręcznikFront-End Developera autor: Jon Duckett
+- [x] CSS3 Podręcznik Nowoczesnego Webdevelopera autor: Peter Gasston 
 
 Aktualnie podjąłem się wyzwania ze strony [frontendmentor](https://www.frontendmentor.io/home)
 (tylko darmowe wyzwania):
@@ -36,7 +37,8 @@ For some time now I have started my way to become a Junior Frontend Developer.
 For now, I put a lot of emphasis on learning HTML and CSS, later my choice will be Javascript.
 
 Books I have read
-- [x] ...fill
+- [x] HTML and CSS: Design and Build Websites author: Jon Duckett
+- [x] The Book of CSS3: A Developer's Guide to the Future of Web Design author: Peter Gasston
 
 Currently I have accepted a challenge from the website [frontendmentor](https://www.frontendmentor.io/home) (free challenges only):
 
