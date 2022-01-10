@@ -40,7 +40,7 @@ For now, I put a lot of emphasis on learning HTML and CSS, later my choice will 
 Books I have read
 - [x] HTML and CSS: Design and Build Websites author: Jon Duckett
 - [x] The Book of CSS3: A Developer's Guide to the Future of Web Design author: Peter Gasston
-- [ ] Responsive Web Design with HTML5 and CSS, Third Edition: Develop future-proof responsive websites using the latest HTML5 and CSS techniques author:Ben Frain
+- [ ] Responsive Web Design with HTML5 and CSS, Third Edition: Develop future-proof responsive websites using the latest HTML5 and CSS techniques author: Ben Frain
 
 Currently I have accepted a challenge from the website [frontendmentor](https://www.frontendmentor.io/home) (free challenges only):
 
