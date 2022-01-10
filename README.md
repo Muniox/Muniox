@@ -1,6 +1,6 @@
 # Polish
 
-### Czesć, mam na imię Paweł.
+## Czesć, mam na imię Paweł.
 Lubuje się w kawie, grach strategicznych (np. Total War: Warhammer) oraz uważam się za skarbnicę wiedzy niepotrzebnej :smirk: 
 
 Od jakiegoś czasu rozpocząłem swoją drogę do zostania junior Frontend Developerem.
@@ -30,7 +30,7 @@ Aktualnie podjąłem się wyzwania ze strony [frontendmentor](https://www.fronte
 # English
 
 
-### Hi, my name is Paweł.
+## Hi, my name is Paweł.
 I like coffee, strategy games (e.g. Total War: Warhammer) and I consider myself a treasury of unnecessary knowledge 😏
 
 For some time now I have started my way to become a Junior Frontend Developer.
