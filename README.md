@@ -22,8 +22,9 @@ Aktualnie podjąłem się wyzwania ze strony [frontendmentor](https://www.fronte
   - [Order summary component](https://github.com/Muniox/order_summary_component)
   - [Stats preview card component](https://github.com/Muniox/stats_preview_card_component)
   - [3-column preview card component](https://github.com/Muniox/3-column-preview-card)
-  - [FAQ accordion card](https://github.com/Muniox/faq-accordion-card)
+  - [FAQ accordion card](https://github.com/Muniox/faq-accordion-card) - dokończyć
   - [Profile card component main](https://github.com/Muniox/profile-card-component-main)
+  - [Social proof section](https://github.com/Muniox/social-proof-section-master)
       
 - [ ] poziom junior 0/19
 
@@ -51,8 +52,9 @@ Currently I have accepted a challenge from the website [frontendmentor](https://
   - [Order summary component](https://github.com/Muniox/order_summary_component)
   - [Stats preview card component](https://github.com/Muniox/stats_preview_card_component)
   - [3-column preview card component](https://github.com/Muniox/3-column-preview-card)
-  - [FAQ accordion card](https://github.com/Muniox/faq-accordion-card)
+  - [FAQ accordion card](https://github.com/Muniox/faq-accordion-card) - dokończyć
   - [Profile card component main](https://github.com/Muniox/profile-card-component-main)
+  - [Social proof section](https://github.com/Muniox/social-proof-section-master)
       
 - [ ] junior level 0/19
 
