@@ -16,7 +16,7 @@ Przeczytane przeze mnie książki
 Aktualnie podjąłem się wyzwania ze strony [frontendmentor](https://www.frontendmentor.io/home)
 (tylko darmowe wyzwania):
 
-- [ ] poziom nowicjusz 7/13
+- [ ] poziom nowicjusz 7/15
 
   - [NFT preview card component](https://github.com/Muniox/nft_preview_card_component)
   - [Order summary component](https://github.com/Muniox/order_summary_component)
@@ -46,7 +46,7 @@ Books I have read
 
 Currently I have accepted a challenge from the website [frontendmentor](https://www.frontendmentor.io/home) (free challenges only):
 
-- [ ] newbie level 7/13
+- [ ] newbie level 7/15
 
   - [NFT preview card component](https://github.com/Muniox/nft_preview_card_component)
   - [Order summary component](https://github.com/Muniox/order_summary_component)
