@@ -22,7 +22,7 @@ Aktualnie podjąłem się wyzwania ze strony [frontendmentor](https://www.fronte
   - [Order summary component](https://github.com/Muniox/order_summary_component)
   - [Stats preview card component](https://github.com/Muniox/stats_preview_card_component)
   - [3-column preview card component](https://github.com/Muniox/3-column-preview-card)
-  - [FAQ accordion card](https://github.com/Muniox/faq-accordion-card) - dokończyć
+  - [FAQ accordion card](https://github.com/Muniox/faq-accordion-card) - dokończyć/do poprawy(chromium)
   - [Profile card component main](https://github.com/Muniox/profile-card-component-main)
   - [Social proof section](https://github.com/Muniox/social-proof-section-master)
       
