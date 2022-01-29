@@ -6,6 +6,7 @@ Lubuje się w kawie, grach strategicznych (np. Total War: Warhammer) oraz uważa
 Od jakiegoś czasu rozpocząłem swoją drogę do zostania junior Frontend Developerem.
 
 Na razie stawiam duży nacisk na naukę HTML i CSS, w późniejszym czasie mój wybór padnie na Javascript.
+
 Zadaniem na przyszłość będzie stworzenie dwóch projektów, jednego z wykorzystaniem anime js oraz drugiego z GSAP.
 
 - [ ] anime js project
@@ -43,6 +44,7 @@ I like coffee, strategy games (e.g. Total War: Warhammer) and I consider myself 
 For some time now I have started my way to become a Junior Frontend Developer.
 
 For now, I put a lot of emphasis on learning HTML and CSS, later my choice will be Javascript.
+
 The task for the future will be to create two projects, one using anime js and other GSAP.
 
 - [ ] anime js project
