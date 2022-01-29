@@ -16,7 +16,7 @@ Przeczytane przeze mnie książki
 Aktualnie podjąłem się wyzwania ze strony [frontendmentor](https://www.frontendmentor.io/home)
 (tylko darmowe wyzwania):
 
-- [ ] poziom nowicjusz 7/15
+- [ ] poziom nowicjusz 8/15
 
   - [NFT preview card component](https://github.com/Muniox/nft_preview_card_component)
   - [Order summary component](https://github.com/Muniox/order_summary_component)
@@ -25,7 +25,8 @@ Aktualnie podjąłem się wyzwania ze strony [frontendmentor](https://www.fronte
   - [FAQ accordion card](https://github.com/Muniox/faq-accordion-card) - dokończyć/do poprawy(chromium)
   - [Profile card component main](https://github.com/Muniox/profile-card-component-main)
   - [Social proof section](https://github.com/Muniox/social-proof-section-master)
-      
+  - [Article preview component](https://github.com/Muniox/article-preview-component-master)
+  
 - [ ] poziom junior 0/19
 
 
@@ -55,6 +56,7 @@ Currently I have accepted a challenge from the website [frontendmentor](https://
   - [FAQ accordion card](https://github.com/Muniox/faq-accordion-card) - dokończyć
   - [Profile card component main](https://github.com/Muniox/profile-card-component-main)
   - [Social proof section](https://github.com/Muniox/social-proof-section-master) (do poprawy svg na tle)
+  - [Article preview component](https://github.com/Muniox/article-preview-component-master)
       
 - [ ] junior level 0/19
 
