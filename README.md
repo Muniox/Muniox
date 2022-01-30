@@ -7,10 +7,10 @@ Od jakiegoś czasu rozpocząłem swoją drogę do zostania junior Frontend Devel
 
 Na razie stawiam duży nacisk na naukę HTML i CSS, w późniejszym czasie mój wybór padnie na Javascript.
 
-Zadaniem na przyszłość będzie stworzenie dwóch projektów, jednego z wykorzystaniem anime js oraz drugiego z GSAP.
+Zadaniem na przyszłość będzie stworzenie dwóch projektów, jednego z wykorzystaniem animejs oraz drugiego z GSAP.
 
-- [ ] anime js project
-- [ ] GSAP project
+- [ ] [animejs project](https://github.com/juliangarnier/anime/)
+- [ ] [GSAP project](https://github.com/greensock/GSAP)
 
 Przeczytane przeze mnie książki
 
