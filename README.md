@@ -33,6 +33,7 @@ Aktualnie podjąłem się wyzwania ze strony [frontendmentor](https://www.fronte
   - [Article preview component](https://github.com/Muniox/article-preview-component-master) (opoźnienie pojawiania się tekstu i svg przy popupie)
   - [QR code component](https://muniox.github.io/qr-code-component-main/)
   - [Four card feature section](https://github.com/Muniox/four-card-feature-section-master)
+  - [Single price grid component](https://github.com/Muniox/single-price-grid-component-master)
   
 - [ ] poziom junior 0/19
 
@@ -71,6 +72,7 @@ Currently I have accepted a challenge from the website [frontendmentor](https://
   - [Article preview component](https://github.com/Muniox/article-preview-component-master)
   - [QR code component](https://muniox.github.io/qr-code-component-main/)
   - [Four card feature section](https://github.com/Muniox/four-card-feature-section-master)
+  - [Single price grid component](https://github.com/Muniox/single-price-grid-component-master)
       
 - [ ] junior level 0/19
 
