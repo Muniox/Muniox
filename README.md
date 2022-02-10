@@ -21,7 +21,7 @@ Przeczytane przeze mnie książki
 Aktualnie podjąłem się wyzwania ze strony [frontendmentor](https://www.frontendmentor.io/home)
 (tylko darmowe wyzwania):
 
-- [ ] poziom nowicjusz 9/15
+- [ ] poziom nowicjusz 10/15
 
   - [NFT preview card component](https://github.com/Muniox/nft_preview_card_component)
   - [Order summary component](https://github.com/Muniox/order_summary_component)
@@ -32,6 +32,7 @@ Aktualnie podjąłem się wyzwania ze strony [frontendmentor](https://www.fronte
   - [Social proof section](https://github.com/Muniox/social-proof-section-master) (do poprawy svg w tle odległośc taka sama od kazdego boku) 
   - [Article preview component](https://github.com/Muniox/article-preview-component-master)
   - [QR code component](https://muniox.github.io/qr-code-component-main/)
+  - [Four card feature section](https://github.com/Muniox/four-card-feature-section-master)
   
 - [ ] poziom junior 0/19
 
@@ -58,7 +59,7 @@ Books I have read
 
 Currently I have accepted a challenge from the website [frontendmentor](https://www.frontendmentor.io/home) (free challenges only):
 
-- [ ] newbie level 9/15
+- [ ] newbie level 10/15
 
   - [NFT preview card component](https://github.com/Muniox/nft_preview_card_component)
   - [Order summary component](https://github.com/Muniox/order_summary_component)
@@ -69,6 +70,7 @@ Currently I have accepted a challenge from the website [frontendmentor](https://
   - [Social proof section](https://github.com/Muniox/social-proof-section-master)
   - [Article preview component](https://github.com/Muniox/article-preview-component-master)
   - [QR code component](https://muniox.github.io/qr-code-component-main/)
+  - [Four card feature section](https://github.com/Muniox/four-card-feature-section-master)
       
 - [ ] junior level 0/19
 
