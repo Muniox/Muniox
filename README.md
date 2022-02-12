@@ -21,7 +21,7 @@ Przeczytane przeze mnie książki
 Aktualnie podjąłem się wyzwania ze strony [frontendmentor](https://www.frontendmentor.io/home)
 (tylko darmowe wyzwania):
 
-- [ ] poziom nowicjusz 11/15
+- [ ] poziom nowicjusz 12/15
 
   - [NFT preview card component](https://github.com/Muniox/nft_preview_card_component)
   - [Order summary component](https://github.com/Muniox/order_summary_component)
@@ -34,6 +34,7 @@ Aktualnie podjąłem się wyzwania ze strony [frontendmentor](https://www.fronte
   - [QR code component](https://muniox.github.io/qr-code-component-main/)
   - [Four card feature section](https://github.com/Muniox/four-card-feature-section-master)
   - [Single price grid component](https://github.com/Muniox/single-price-grid-component-master) (dodać active oraz hover do buttona)
+  - [Ping single column coming soon page](https://github.com/Muniox/ping-coming-soon-page-master)
   
 - [ ] poziom junior 0/19
 
@@ -60,7 +61,7 @@ Books I have read
 
 Currently I have accepted a challenge from the website [frontendmentor](https://www.frontendmentor.io/home) (free challenges only):
 
-- [ ] newbie level 11/15
+- [ ] newbie level 12/15
 
   - [NFT preview card component](https://github.com/Muniox/nft_preview_card_component)
   - [Order summary component](https://github.com/Muniox/order_summary_component)
@@ -73,6 +74,7 @@ Currently I have accepted a challenge from the website [frontendmentor](https://
   - [QR code component](https://muniox.github.io/qr-code-component-main/)
   - [Four card feature section](https://github.com/Muniox/four-card-feature-section-master)
   - [Single price grid component](https://github.com/Muniox/single-price-grid-component-master)
+  - [Ping single column coming soon page](https://github.com/Muniox/ping-coming-soon-page-master)
       
 - [ ] junior level 0/19
 
