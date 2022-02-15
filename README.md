@@ -17,6 +17,7 @@ Przeczytane przeze mnie książki
 - [x] HTML i CSS Zaprojektuj i zbuduj witrynę WWW PodręcznikFront-End Developera autor: Jon Duckett
 - [x] CSS3 Podręcznik Nowoczesnego Webdevelopera autor: Peter Gasston
 - [ ] Responsive Web Design Projektowanie elastycznych witryn w HTML5 i CSS3 autor: Ben Frain
+- [ ] Bootstrap 4 dla zaawansowanych Wydanie II autorzy: Benjamin Jakobus, Jason Marah 
 
 Aktualnie podjąłem się wyzwania ze strony [frontendmentor](https://www.frontendmentor.io/home)
 (tylko darmowe wyzwania):
