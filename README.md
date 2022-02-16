@@ -30,7 +30,7 @@ Aktualnie podjąłem się wyzwania ze strony [frontendmentor](https://www.fronte
   - [3-column preview card component](https://github.com/Muniox/3-column-preview-card)
   - [FAQ accordion card](https://github.com/Muniox/faq-accordion-card) - dokończyć/do poprawy(chromium)
   - [Profile card component main](https://github.com/Muniox/profile-card-component-main)
-  - [Social proof section](https://github.com/Muniox/social-proof-section-master) (do poprawy svg w tle odległośc taka sama od kazdego boku) 
+  - [Social proof section](https://github.com/Muniox/social-proof-section-master) (do poprawy svg w tle odległośc taka sama od kazdego boku)(nadać container-fluid usunac ujemne marginesy)
   - [Article preview component](https://github.com/Muniox/article-preview-component-master) (opoźnienie pojawiania się tekstu i svg przy popupie)
   - [QR code component](https://muniox.github.io/qr-code-component-main/)
   - [Four card feature section](https://github.com/Muniox/four-card-feature-section-master)
