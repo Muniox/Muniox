@@ -2,9 +2,12 @@
 
 ### Hi, my name is Paweł.
 I like coffee, strategy games (e.g. Total War: Warhammer) and I consider myself a treasury of unnecessary knowledge 😏
-For some time now I have started my way to become a Junior Frontend Developer.
 
-For now, I put a lot of emphasis on learning HTML, CSS, and Javascript.
+#### My stack
+- MariaDB
+- Express
+- React
+- Node.js
 
 Books I have read
 - [x] HTML and CSS: Design and Build Websites author: Jon Duckett
