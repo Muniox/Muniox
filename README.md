@@ -15,9 +15,9 @@ I like coffee, strategy games (e.g. Total War: Warhammer) and I consider myself 
 <br />
 
 ### The books I have read
-- [x] HTML and CSS: Design and Build Websites author: Jon Duckett
-- [x] The Book of CSS3: A Developer's Guide to the Future of Web Design author: Peter Gasston
-- [x] JavaScript. Developing modern web applications author: Tomasz Sochacki [tasks from book](https://github.com/Muniox/Tomasz-Sochacki-web-aplication) 
+- [x] HTML and CSS: Design and Build Websites. Author: Jon Duckett
+- [x] The Book of CSS3: A Developer's Guide to the Future of Web Design. Author: Peter Gasston
+- [x] JavaScript. Developing modern web applications. Author: Tomasz Sochacki - [tasks from book](https://github.com/Muniox/Tomasz-Sochacki-web-aplication) 
 
 <br />
 
