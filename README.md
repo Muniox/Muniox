@@ -4,13 +4,7 @@
 
 I like coffee, strategy games (e.g. Total War: Warhammer) and I consider myself a treasury of unnecessary knowledge 😏
 
-<br />
-
-### My stack
-- MariaDB
-- Express
-- React
-- Node.js
+### const myStack: [MariaDB, Express, React, Node.js]
 
 <br />
 
