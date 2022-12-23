@@ -22,7 +22,7 @@ I like coffee, strategy games (e.g. Total War: Warhammer) and I consider myself 
 <br />
 
 ### MEGAK
-I'm currently taking the ["MEGAK"](https://www.megak.pl/) course.
+I'm currently taking the ["MEGAK"](https://www.megak.pl/) 14 months course.
 
 - [x] Stage 1 JavaScript - from 21.03.2022 to 22.04.2022 
 - [x] Stage 2 [Node.js](https://github.com/Muniox/node-megak) - from 9.05.2022 to 10.06.2022 
