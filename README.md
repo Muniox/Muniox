@@ -4,21 +4,21 @@
 
 I like coffee, strategy games (e.g. Total War: Warhammer) and I consider myself a treasury of unnecessary knowledge 😏
 
---------------------
+------------------------------
 ### My stack
 - MariaDB
 - Express
 - React
 - Node.js
 
--------------------
+------------------------------
 
 ### The books I have read
 - [x] HTML and CSS: Design and Build Websites author: Jon Duckett
 - [x] The Book of CSS3: A Developer's Guide to the Future of Web Design author: Peter Gasston
 - [x] JavaScript. Developing modern web applications author: Tomasz Sochacki  
 
---------------------
+------------------------------
 
 ### MEGAK
 I'm currently taking the ["MEGAK"](https://www.megak.pl/) course.
