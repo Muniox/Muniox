@@ -3,18 +3,21 @@
 ### Hi, my name is Paweł.
 I like coffee, strategy games (e.g. Total War: Warhammer) and I consider myself a treasury of unnecessary knowledge 😏
 
+
 #### My stack
 - MariaDB
 - Express
 - React
 - Node.js
 
-Books I have read
+
+#### Books I have read
 - [x] HTML and CSS: Design and Build Websites author: Jon Duckett
 - [x] The Book of CSS3: A Developer's Guide to the Future of Web Design author: Peter Gasston
 - [x] JavaScript. Developing modern web applications author: Tomasz Sochacki  
 
 I'm currently taking the ["MEGAK"](https://www.megak.pl/) course.
+
 
 ### MEGAK
 - [x] Stage 1 JavaScript - from 21.03.2022 to 22.04.2022 
