@@ -17,15 +17,15 @@ Books I have read
 I'm currently taking the ["MEGAK"](https://www.megak.pl/) course.
 
 ### MEGAK
-- [x] ETAP 1 JavaScript - from 21.03.2022 to 22.04.2022 
-- [x] Etap 2 [Node.js](https://github.com/Muniox/node-megak) - from 9.05.2022 to 10.06.2022 
-- [x] Etap 3 [Express.js](https://github.com/Muniox/express-megak) - from 27.06.2022 to 29.07.2022 
-- [x] Etap 4 [Databases](https://github.com/Muniox/SQL-megak) - from 15.08.2022 to 16.09.2022 
-- [x] Etap 5 [TypeScript](https://github.com/Muniox/typescript-megak) - from 3.10.2022 to 4.11.2022 
-- [x] Etap 6 [REACT](https://github.com/Muniox/react-megak) - from 21.11.2022 to 23.12.2022 
-- [ ] Etap 7 Node.js Advance 
-- [ ] Etap 8 NestJS 
-- [ ] Etap 9 BONUS PROJECT 
+- [x] Stage 1 JavaScript - from 21.03.2022 to 22.04.2022 
+- [x] Stage 2 [Node.js](https://github.com/Muniox/node-megak) - from 9.05.2022 to 10.06.2022 
+- [x] Stage 3 [Express.js](https://github.com/Muniox/express-megak) - from 27.06.2022 to 29.07.2022 
+- [x] Stage 4 [Databases](https://github.com/Muniox/SQL-megak) - from 15.08.2022 to 16.09.2022 
+- [x] Stage 5 [TypeScript](https://github.com/Muniox/typescript-megak) - from 3.10.2022 to 4.11.2022 
+- [x] Stage 6 [REACT](https://github.com/Muniox/react-megak) - from 21.11.2022 to 23.12.2022 
+- [ ] Stage 7 Node.js Advance 
+- [ ] Stage 8 NestJS 
+- [ ] Stage 9 BONUS PROJECT 
 
 
 I have accepted a challenge from the website [frontendmentor](https://www.frontendmentor.io/home) (free challenges only):
