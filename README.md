@@ -28,10 +28,10 @@ I'm currently taking the ["MEGAK"](https://www.megak.pl/) course.
 - [x] Stage 3 [Express.js](https://github.com/Muniox/express-megak) - from 27.06.2022 to 29.07.2022 
 - [x] Stage 4 [Databases](https://github.com/Muniox/SQL-megak) - from 15.08.2022 to 16.09.2022 
 - [x] Stage 5 [TypeScript](https://github.com/Muniox/typescript-megak) - from 3.10.2022 to 4.11.2022 
-- [x] Stage 6 [REACT](https://github.com/Muniox/react-megak) - from 21.11.2022 to 23.12.2022 
+- [x] Stage 6 [React](https://github.com/Muniox/react-megak) - from 21.11.2022 to 23.12.2022 
 - [ ] Stage 7 Node.js Advance 
 - [ ] Stage 8 NestJS 
-- [ ] Stage 9 BONUS PROJECT 
+- [ ] Stage 9 Bonus Project 
 
 ------------------------------
 
