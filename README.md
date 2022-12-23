@@ -14,12 +14,12 @@ Books I have read
 I'm currently taking the ["MEGAK"](https://www.megak.pl/) course.
 
 ### MEGAK
-- [x] ETAP 1 JavaScript - od 21.03.2022 do 22.04.2022 
-- [x] Etap 2 [Node.js](https://github.com/Muniox/node-megak) - od 9.05.2022 do 10.06.2022 
-- [x] Etap 3 [Express.js](https://github.com/Muniox/express-megak) - od 27.06.2022 do 29.07.2022 
-- [x] Etap 4 [Databases](https://github.com/Muniox/SQL-megak) - od 15.08.2022 do 16.09.2022 
-- [x] Etap 5 [TypeScript](https://github.com/Muniox/typescript-megak) - od 3.10.2022 do 4.11.2022 
-- [x] Etap 6 [REACT](https://github.com/Muniox/react-megak) - od 21.11.2022 do 23.12.2022 
+- [x] ETAP 1 JavaScript - from 21.03.2022 to 22.04.2022 
+- [x] Etap 2 [Node.js](https://github.com/Muniox/node-megak) - from 9.05.2022 to 10.06.2022 
+- [x] Etap 3 [Express.js](https://github.com/Muniox/express-megak) - from 27.06.2022 to 29.07.2022 
+- [x] Etap 4 [Databases](https://github.com/Muniox/SQL-megak) - from 15.08.2022 to 16.09.2022 
+- [x] Etap 5 [TypeScript](https://github.com/Muniox/typescript-megak) - from 3.10.2022 to 4.11.2022 
+- [x] Etap 6 [REACT](https://github.com/Muniox/react-megak) - from 21.11.2022 to 23.12.2022 
 - [ ] Etap 7 Node.js Advance 
 - [ ] Etap 8 NestJS 
 - [ ] Etap 9 BONUS PROJECT 
