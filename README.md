@@ -1,4 +1,4 @@
-# My journey to becoming a fullstack Javascript developer
+# My journey to becoming a fullstack JavaScript developer
 
 ### Hi, my name is Paweł.
 
