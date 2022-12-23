@@ -18,7 +18,7 @@ I'm currently taking the ["MEGAK"](https://www.megak.pl/) course.
 
 ### MEGAK
 - [x] ETAP 1 JavaScript - from 21.03.2022 to 22.04.2022 
-- [x] Etap 2 [Node.js](https://github.com/Muniox/node-megak){:target="_blank"} - from 9.05.2022 to 10.06.2022 
+- [x] Etap 2 [Node.js](https://github.com/Muniox/node-megak) - from 9.05.2022 to 10.06.2022 
 - [x] Etap 3 [Express.js](https://github.com/Muniox/express-megak) - from 27.06.2022 to 29.07.2022 
 - [x] Etap 4 [Databases](https://github.com/Muniox/SQL-megak) - from 15.08.2022 to 16.09.2022 
 - [x] Etap 5 [TypeScript](https://github.com/Muniox/typescript-megak) - from 3.10.2022 to 4.11.2022 
