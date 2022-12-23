@@ -53,7 +53,7 @@ I have accepted a challenge from the website [frontendmentor](https://www.fronte
   - [Four card feature section](https://github.com/Muniox/four-card-feature-section-master)
   - [Single price grid component](https://github.com/Muniox/single-price-grid-component-master)
   - [Ping single column coming soon page](https://github.com/Muniox/ping-coming-soon-page-master)
-  - [Base Apparel coming soon page](https://muniox.github.io/base-apparel-coming-soon-master/) (dodać walidacje email)
+  - [Base Apparel coming soon page](https://muniox.github.io/base-apparel-coming-soon-master/) (add email validation)
       
 - [ ] junior level 0/19
 
