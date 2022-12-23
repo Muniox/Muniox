@@ -1,67 +1,31 @@
-# Polish
-
-### Czesć, mam na imię Paweł.
-Lubuje się w kawie, grach strategicznych (np. Total War: Warhammer) oraz uważam się za skarbnicę wiedzy niepotrzebnej :smirk: 
-
-Od jakiegoś czasu rozpocząłem swoją drogę do zostania junior Frontend Developerem.
-
-Na razie stawiam duży nacisk na naukę HTML i CSS, w późniejszym czasie mój wybór padnie na Javascript.
-
-Zadaniem na przyszłość będzie stworzenie dwóch projektów, jednego z wykorzystaniem animejs oraz drugiego z GSAP.
-
-- [ ] [animejs project](https://github.com/juliangarnier/anime/)
-- [ ] [GSAP project](https://github.com/greensock/GSAP)
-
-Przeczytane przeze mnie książki
-
-- [x] HTML i CSS Zaprojektuj i zbuduj witrynę WWW PodręcznikFront-End Developera autor: Jon Duckett
-- [x] CSS3 Podręcznik Nowoczesnego Webdevelopera autor: Peter Gasston
-- [ ] Responsive Web Design Projektowanie elastycznych witryn w HTML5 i CSS3 autor: Ben Frain
-- [ ] Bootstrap 4 dla zaawansowanych Wydanie II autorzy: Benjamin Jakobus, Jason Marah 
-
-Aktualnie podjąłem się wyzwania ze strony [frontendmentor](https://www.frontendmentor.io/home)
-(tylko darmowe wyzwania):
-
-- [ ] poziom nowicjusz 13/15
-
-  - [NFT preview card component](https://github.com/Muniox/nft_preview_card_component)
-  - [Order summary component](https://github.com/Muniox/order_summary_component)
-  - [Stats preview card component](https://github.com/Muniox/stats_preview_card_component)
-  - [3-column preview card component](https://github.com/Muniox/3-column-preview-card)
-  - [FAQ accordion card](https://github.com/Muniox/faq-accordion-card) - dokończyć/do poprawy(chromium)
-  - [Profile card component main](https://github.com/Muniox/profile-card-component-main)
-  - [Social proof section](https://github.com/Muniox/social-proof-section-master) (do poprawy svg w tle odległośc taka sama od kazdego boku)(nadać container-fluid usunac ujemne marginesy)
-  - [Article preview component](https://github.com/Muniox/article-preview-component-master) (opoźnienie pojawiania się tekstu i svg przy popupie)
-  - [QR code component](https://muniox.github.io/qr-code-component-main/)
-  - [Four card feature section](https://github.com/Muniox/four-card-feature-section-master)
-  - [Single price grid component](https://github.com/Muniox/single-price-grid-component-master) (dodać active oraz hover do buttona)
-  - [Ping single column coming soon page](https://github.com/Muniox/ping-coming-soon-page-master)
-  - [Base Apparel coming soon page](https://muniox.github.io/base-apparel-coming-soon-master/) (dodać walidacje email)
-  
-- [ ] poziom junior 0/19
-
-
 # English
-
 
 ### Hi, my name is Paweł.
 I like coffee, strategy games (e.g. Total War: Warhammer) and I consider myself a treasury of unnecessary knowledge 😏
-
 For some time now I have started my way to become a Junior Frontend Developer.
 
-For now, I put a lot of emphasis on learning HTML and CSS, later my choice will be Javascript.
-
-The task for the future will be to create two projects, one using anime js and other GSAP.
-
-- [ ] anime js project
-- [ ] GSAP project
+For now, I put a lot of emphasis on learning HTML, CSS, and Javascript.
 
 Books I have read
 - [x] HTML and CSS: Design and Build Websites author: Jon Duckett
 - [x] The Book of CSS3: A Developer's Guide to the Future of Web Design author: Peter Gasston
-- [ ] Responsive Web Design with HTML5 and CSS, Third Edition: Develop future-proof responsive websites using the latest HTML5 and CSS techniques author: Ben Frain
+- [x] JavaScript. Developing modern web applications author: Tomasz Sochacki  
 
-Currently I have accepted a challenge from the website [frontendmentor](https://www.frontendmentor.io/home) (free challenges only):
+I'm currently taking the ["MEGAK"](https://www.megak.pl/) course.
+
+### MEGAK
+- [x] ETAP 1 [JavaScript] - od 21.03.2022 do 22.04.2022 
+- [x] Etap 2 [Node.js](https://github.com/Muniox/node-megak) - od 9.05.2022 do 10.06.2022 
+- [x] Etap 3 [Express.js](https://github.com/Muniox/express-megak) - od 27.06.2022 do 29.07.2022 
+- [x] Etap 4 [Databases](https://github.com/Muniox/SQL-megak) - od 15.08.2022 do 16.09.2022 
+- [x] Etap 5 [TypeScript](https://github.com/Muniox/typescript-megak) - od 3.10.2022 do 4.11.2022 
+- [x] Etap 6 [REACT](https://github.com/Muniox/react-megak) - od 21.11.2022 do 23.12.2022 
+- [ ] Etap 7 Node.js Advance 
+- [ ] Etap 8 NestJS 
+- [ ] Etap 9 BONUS PROJECT 
+
+
+I have accepted a challenge from the website [frontendmentor](https://www.frontendmentor.io/home) (free challenges only):
 
 - [ ] newbie level 13/15
 
