@@ -17,14 +17,6 @@ I like coffee, strategy games (e.g. Total War: Warhammer) and I consider myself 
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
-
-<br />
-
-### The books I have read
-- [x] HTML and CSS: Design and Build Websites. Author: Jon Duckett
-- [x] The Book of CSS3: A Developer's Guide to the Future of Web Design. Author: Peter Gasston
-- [x] JavaScript. Developing modern web applications. Author: Tomasz Sochacki - [tasks from book](https://github.com/Muniox/Tomasz-Sochacki-web-aplication) 
-
 <br />
 
 ### MEGAK
@@ -63,11 +55,21 @@ I have accepted a challenge from the website [frontendmentor](https://www.fronte
   - [Base Apparel coming soon page](https://muniox.github.io/base-apparel-coming-soon-master/) (add email validation)
       
 - [ ] junior level 0/19
+  
+  - [none]()  
 
+### The books I have read
+- [x] HTML and CSS: Design and Build Websites. Author: Jon Duckett
+- [x] The Book of CSS3: A Developer's Guide to the Future of Web Design. Author: Peter Gasston
+- [x] JavaScript. Developing modern web applications. Author: Tomasz Sochacki - [tasks from book](https://github.com/Muniox/Tomasz-Sochacki-web-aplication) 
+
+<br />
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/muniox" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/paweł-bartoszewski" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+
 
 <!--
 **Muniox/Muniox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
