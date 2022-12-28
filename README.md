@@ -3,6 +3,7 @@
 ### Hi, my name is Paweł.
 
 I like coffee, strategy games (e.g. Total War: Warhammer) and I consider myself a treasury of unnecessary knowledge 😏
+
 <br />
 
 ### Skills
