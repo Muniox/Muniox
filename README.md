@@ -1,4 +1,4 @@
-# Hi I'm Paweł a fullstack JavaScript developer
+# Hi I'm Paweł a full-stack JavaScript Developer
 
 ### Hi, my name is Paweł.
 
