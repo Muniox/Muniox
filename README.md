@@ -40,8 +40,8 @@ I have accepted a challenge from the website [frontendmentor](https://www.fronte
 
 - [ ] newbie level 13/15
 
-  - [NFT preview card component](https://github.com/Muniox/nft_preview_card_component)
-  - [Order summary component](https://github.com/Muniox/order_summary_component)
+  - [NFT preview card component](https://github.com/Muniox/nft_preview_card_component) (REACT PostCSS BEM)
+  - [Order summary component](https://github.com/Muniox/order_summary_component) (REACT PostCSS BEM)
   - [Stats preview card component](https://github.com/Muniox/stats_preview_card_component)
   - [3-column preview card component](https://github.com/Muniox/3-column-preview-card)
   - [FAQ accordion card](https://github.com/Muniox/faq-accordion-card)
