@@ -43,7 +43,9 @@ I have accepted a challenge from the website [frontendmentor](https://www.fronte
   - [NFT preview card component](https://github.com/Muniox/nft_preview_card_component) - 
     React PostCSS BEM - 
     [online](https://muniox.github.io/nft-preview-card-component/) 
-  - [Order summary component](https://github.com/Muniox/order_summary_component) (REACT PostCSS BEM)
+  - [Order summary component](https://github.com/Muniox/order_summary_component) -
+    React PostCSS BEM -
+    [online](https://muniox.github.io/order-summary-component/)
   - [Stats preview card component](https://github.com/Muniox/stats_preview_card_component)
   - [3-column preview card component](https://github.com/Muniox/3-column-preview-card)
   - [FAQ accordion card](https://github.com/Muniox/faq-accordion-card)
