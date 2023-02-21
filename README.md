@@ -28,7 +28,7 @@ I'm currently taking the ["MEGAK"](https://www.megak.pl/) - 14 months course.
 - [x] Stage 4 [Databases](https://github.com/Muniox/SQL-megak) - from 15.08.2022 to 16.09.2022 
 - [x] Stage 5 [TypeScript](https://github.com/Muniox/typescript-megak) - from 3.10.2022 to 4.11.2022 
 - [x] Stage 6 [React](https://github.com/Muniox/react-megak) - from 21.11.2022 to 23.12.2022 
-- [ ] Stage 7 [Node.js Advanced](https://github.com/Muniox/node-advance-megak) - from 9.01.2023 to 10.02.2023
+- [x] Stage 7 [Node.js Advanced](https://github.com/Muniox/node-advance-megak) - from 9.01.2023 to 10.02.2023
 - [ ] Stage 8 NestJS - from 27.02.2023 to 31.03.2023
 - [ ] Stage 9 Bonus Project - from 17.04.2023 to 12.05.2023
 
