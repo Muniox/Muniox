@@ -23,7 +23,8 @@ I like coffee, strategy games (e.g. Total War: Warhammer) and I consider myself 
 ### Portfolio Projects
 
 Blog JS DOSE: 
-Demo: https://blog.truemuniox.usermd.net/
+
+ - Demo: https://blog.truemuniox.usermd.net/
 
  - Back-end: https://github.com/Muniox/blog-megak-back
 
