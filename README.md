@@ -25,9 +25,9 @@ I like coffee, strategy games (e.g. Total War: Warhammer) and I consider myself 
 Blog JS DOSE: 
 Demo: https://blog.truemuniox.usermd.net/
 
-Back-end: https://github.com/Muniox/blog-megak-back
+ - Back-end: https://github.com/Muniox/blog-megak-back
 
-Front-end: https://github.com/Muniox/blog-megak-front
+ - Front-end: https://github.com/Muniox/blog-megak-front
 
 
 ### MEGAK
