@@ -86,7 +86,7 @@ I have accepted a challenge from the website [frontendmentor](https://www.fronte
 <a href="https://www.linkedin.com/in/pawelbartoszewski" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
-[![](https://visitcount.itsvg.in/api?id=Muniox&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://github.com/Muniox" rel="noreferrer">[![](https://visitcount.itsvg.in/api?id=Muniox&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)</a>
 <!--
 **Muniox/Muniox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
