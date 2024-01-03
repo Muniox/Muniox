@@ -2,6 +2,7 @@
 
 I like coffee, strategy games (e.g. Total War: Warhammer) and I consider myself a treasury of unnecessary knowledge 😏
 
+🔭 I’m currently working on ["Blog in Nestjs"](https://github.com/Muniox/nest-blog)
 <br />
 
 ### Languages and Tools
