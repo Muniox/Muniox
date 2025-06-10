@@ -1,4 +1,4 @@
-# Hi I'm Paweł a full-stack JavaScript Developer
+# Hi I'm Paweł a Fullstack Developer
 
 I like coffee, strategy games (e.g. Total War: Warhammer) and I consider myself a treasury of unnecessary knowledge 😏
 
