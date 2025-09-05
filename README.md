@@ -26,7 +26,7 @@ Blog JS DOSE:
 
 
 ### MEGAK
-I taked the ["MEGAK"](https://www.megak.pl/) - 14 months course.
+I taked the "MEGA KURS JAVASCRIPT" - 14 months course.
 
 - [x] Stage 1 JavaScript - from 21.03.2022 to 22.04.2022 
 - [x] Stage 2 [Node.js](https://github.com/Muniox/node-megak) - from 9.05.2022 to 10.06.2022 
