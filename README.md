@@ -2,7 +2,9 @@
 
 I like coffee, strategy games (e.g. Total War: Warhammer) and I consider myself a treasury of unnecessary knowledge 😏
 
-🔭 I’m currently working on ["Blog in Nestjs"](https://github.com/Muniox/nest-blog) and learning Angular
+🔭 I’m currently working on 
+["Blog in Nestjs"](https://github.com/Muniox/nest-blog) and learning Angular
+nest-blog working api: https://nest-blog.truemuniox.usermd.net/api
 <br />
  
 | Languages | Frameworks | Runtimes | SQL | Tools |
