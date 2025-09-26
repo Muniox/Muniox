@@ -18,7 +18,7 @@ nest-blog working api: https://nest-blog.truemuniox.usermd.net/api
 
 Nest Blog: 
 
- - Demo: [[https://blog.truemuniox.usermd.net/](https://github.com/Muniox/nest-blog)](https://nest-blog.truemuniox.usermd.net/api)
+ - Demo: [[Nest Blog](https://github.com/Muniox/nest-blog)]
 
 
 ### MEGAK
