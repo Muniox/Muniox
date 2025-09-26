@@ -16,9 +16,9 @@ nest-blog working api: https://nest-blog.truemuniox.usermd.net/api
 
 ### Portfolio Projects
 
-Blog JS DOSE: 
+Nest Blog: 
 
- - Demo: [https://blog.truemuniox.usermd.net/](https://github.com/Muniox/nest-blog)
+ - Demo: [[https://blog.truemuniox.usermd.net/](https://github.com/Muniox/nest-blog)](https://nest-blog.truemuniox.usermd.net/api)
 
 
 ### MEGAK
